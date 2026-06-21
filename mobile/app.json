@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Fredy Unlimited AI",
+    "slug": "fredy-unlimited-ai",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "android": {
+      "adaptiveIcon": {"backgroundColor": "#ffffff"},
+      "package": "com.fredyai.unlimited"
+    }
+  }
+}

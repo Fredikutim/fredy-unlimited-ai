@@ -1,0 +1,19 @@
+{
+  "name": "fredy-unlimited-ai-mobile",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "build:android": "eas build --platform android"
+  },
+  "dependencies": {
+    "expo": "^50.0.0",
+    "react": "^18.2.0",
+    "react-native": "^0.73.0",
+    "expo-image-picker": "^14.7.0",
+    "@react-navigation/native": "^6.1.0",
+    "@react-navigation/bottom-tabs": "^6.5.0",
+    "axios": "^1.6.0"
+  }
+}
